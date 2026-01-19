@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### Introduction
+### My Grass Garden
 <!--
 **jihwan4155/jihwan4155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Snake Eating My Contributions
 ![Snake animation](https://github.com/jihwan4155/jihwan4155/blob/output/github-contribution-grid-snake.svg)
+
+### Tech Stack
+
+### Contacts
+jihwan4155@gmail.com
