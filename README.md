@@ -1,6 +1,7 @@
 ## Hi there 👋
-### Introduction
-**A Beginner Developer passionate about learning and building.** 
+### Introduction 
+
+**A Beginner Developer passionate about learning and building.** <br>
 Currently studying **Python** and seeking new challenges.
 
 ### My Grass Garden
