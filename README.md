@@ -1,5 +1,8 @@
 ## Hi there 👋
 ### Introduction
+**A Beginner Developer passionate about learning and building.** 
+Currently studying **Python** and seeking new challenges.
+
 ### My Grass Garden
 <!--
 **jihwan4155/jihwan4155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
