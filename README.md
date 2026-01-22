@@ -1,8 +1,12 @@
-## Hi there 👋
-### Introduction 
+## Hey there! 👋
 
-**A Beginner Developer passionate about learning and building.** <br>
-Currently studying **Python** and seeking new challenges.
+I'm Jihwan, a beginner developer based in South Korea.
+
+I'm currently participating in SSAFY (Samsung AI Software Academy For Youth), an intensive software development program **by Samsung**. 
+
+My main tech stack is Python. 
+
+With a keen interest in Sports, Fitness, and Healthcare, I aim to develop technology that enchances human perforamce and wellness.
 
 ### My Grass Garden
 <!--
