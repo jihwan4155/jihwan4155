@@ -10,6 +10,11 @@ Currently studying **Python** and seeking new challenges.
 
 Here are some ideas to get you started:
 
+- who are u
+what are you currently working on
+what tools do you use
+how to reach u
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
