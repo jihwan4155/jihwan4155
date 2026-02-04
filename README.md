@@ -1,4 +1,5 @@
 ## Hey there! 👋
+<img src="https://img.shields.io/badge/Coding_Journey-2026-blue?style=for-the-badge&logo=github&logoColor=white">
 
 I'm Jihwan, a beginner developer based in South Korea.
 
