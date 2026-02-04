@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           # 뱀의 이동 속도 설정 (기본값은 5, 숫자가 클수록 빠름)
-          snake_speed: 15
+          snake_speed: 20
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
