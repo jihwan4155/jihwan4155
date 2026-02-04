@@ -44,7 +44,7 @@ how to reach u
 ## 💎 Baekjoon Badge
 
 <div align="left">
-  <a href="https://solved.ac/Malkoring">
+  <a href="https://solved.ac/jihwan4155">
     <img src="https://raw.githubusercontent.com/jihwan4155/jihwan4155/snake-assets/solved-badge.svg?v=1" alt="Solved.ac Profile" />
   </a>
 </div>
