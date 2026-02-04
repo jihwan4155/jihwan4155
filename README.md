@@ -29,7 +29,7 @@ how to reach u
 - ⚡ Fun fact: ...
 -->
 
-## 🐍 My Contribution Snake
+### 🐍 My Contribution Snake
 
 <div align="left">
   <picture>
@@ -41,7 +41,7 @@ how to reach u
 
 <br/>
 
-## 💎 Baekjoon Badge
+### 💎 Baekjoon Badge
 
 <div align="left">
   <a href="https://solved.ac/jihwan4155">
@@ -49,9 +49,9 @@ how to reach u
   </a>
 </div>
 
-## 📈 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=jihwan4155&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan4155&layout=compact&theme=radical" alt="Most Used Languages" />
+### 📈 GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=jihwan4155&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan4155&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages" />
 
   <br/>
 
