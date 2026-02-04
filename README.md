@@ -37,16 +37,20 @@ how to reach u
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jihwan4155/jihwan4155/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Baekjoon Badge
-<div align="center">
+# 🌿 My Grass Garden
+
+<div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/github-contribution-grid-snake.svg" width="100%">
   </picture>
 
   <br/>
 
-  <img src="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/solved-badge.svg" />
+  <a href="https://solved.ac/Malkoring">
+    <img src="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/solved-badge.svg" alt="Solved.ac Profile" />
+  </a>
 </div>
 
 ### Tech Stack
