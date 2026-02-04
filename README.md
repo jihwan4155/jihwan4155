@@ -49,7 +49,11 @@ how to reach u
   </a>
 </div>
 
-### Tech Stack
+## 📈 GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=jihwan4155&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan4155&layout=compact&theme=radical" alt="Most Used Languages" />
+
+  <br/>
 
 ### Contacts
 jihwan4155@gmail.com
