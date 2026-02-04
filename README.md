@@ -33,9 +33,9 @@ how to reach u
 
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/github-contribution-grid-snake.svg?v=1" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jihwan4155/jihwan4155/snake-assets/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jihwan4155/jihwan4155/snake-assets/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jihwan4155/jihwan4155/snake-assets/github-contribution-grid-snake.svg?v=1" width="100%">
   </picture>
 </div>
 
@@ -45,7 +45,7 @@ how to reach u
 
 <div align="left">
   <a href="https://solved.ac/Malkoring">
-    <img src="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/solved-badge.svg?v=1" alt="Solved.ac Profile" />
+    <img src="https://raw.githubusercontent.com/jihwan4155/jihwan4155/snake-assets/solved-badge.svg?v=1" alt="Solved.ac Profile" />
   </a>
 </div>
 
