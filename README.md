@@ -37,6 +37,18 @@ how to reach u
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jihwan4155/jihwan4155/output/github-contribution-grid-snake.svg">
 </picture>
 
+## Baekjoon Badge
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/본인아이디/레포명/snake-assets/solved-badge.svg" />
+</div>
+
 ### Tech Stack
 
 ### Contacts
