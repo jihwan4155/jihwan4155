@@ -15,8 +15,8 @@ jobs:
       - name: Generate Solved.ac Badge
         run: |
           mkdir -p dist
-          # 백준 아이디(Malkoring)를 기반으로 뱃지 이미지를 다운로드하여 dist 폴더에 저장
-          curl -o dist/solved-badge.svg "http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring"
+          # 백준 아이디를 기반으로 뱃지 이미지를 다운로드하여 dist 폴더에 저장
+          curl -o dist/solved-badge.svg "http://mazassumnida.wtf/api/v2/generate_badge?boj=jihwan4155"
           
       - name: Push to Separate Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
