@@ -29,8 +29,13 @@ how to reach u
 - ⚡ Fun fact: ...
 -->
 
-### Snake Eating My Contributions
-![Snake animation](https://github.com/jihwan4155/jihwan4155/blob/output/github-contribution-grid-snake.svg)
+## 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/본인계정명/레포지토리이름/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/본인계정명/레포지토리이름/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/본인계정명/레포지토리이름/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### Tech Stack
 
