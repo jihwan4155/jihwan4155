@@ -1,0 +1,29 @@
+name: Generate Badge
+
+on:
+  schedule:
+    - cron: "0 16 * * *" # 한국 시간 매일 새벽 1시 (뱀 생성 이후 실행)
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Solved.ac Badge
+        run: |
+          mkdir -p dist
+          # 백준 아이디(Malkoring)를 기반으로 뱃지 이미지를 다운로드하여 dist 폴더에 저장
+          curl -o dist/solved-badge.svg "http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring"
+          
+      - name: Push to Separate Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # 뱀 파일과 똑같이 snake-assets 브랜치에 모아서 저장합니다.
+          target_branch: snake-assets
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
