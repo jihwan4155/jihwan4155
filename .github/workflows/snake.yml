@@ -2,10 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # 한국 시간(KST) 매일 00:00에 실행하기 위해
-    # UTC 기준 전날 15:00로 설정 (15 + 9 = 24시)
-    - cron: "0 15 * * *"
-  workflow_dispatch: # 수동 실행 가능
+    - cron: "0 15 * * *" # 한국 시간 자정
+  workflow_dispatch:
 
 jobs:
   build:
@@ -18,13 +16,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          snake_speed: 10
+          # 뱀의 이동 속도 설정 (기본값은 5, 숫자가 클수록 빠름)
+          snake_speed: 15
           outputs: |
-            # 라이트 모드
             dist/github-contribution-grid-snake.svg
-            # 다크 모드
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # 백준/솔브드 느낌 커스텀 (오렌지/레드 계열)
             dist/github-snake-custom.svg?color_snake=#f44336&color_dots=#ebedf0,#ffeb3b,#ffc107,#ff9800,#f44336
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
