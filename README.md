@@ -53,8 +53,8 @@ how to reach u
 
 <div align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jihwan4155&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="180" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jihwan4155&layout=compact&theme=radical&hide_border=true&card_width=450" height="180" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jihwan4155&layout=compact&theme=radical&hide_border=true&height=180&card_width=480&hide=none" height="180" />
 </div>
 
 ### Contacts
