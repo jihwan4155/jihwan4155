@@ -21,9 +21,8 @@ jobs:
       - name: Push to Separate Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # 뱀 파일과 똑같이 snake-assets 브랜치에 모아서 저장합니다.
           target_branch: snake-assets
           build_dir: dist
-          keep_history: true
+          keep_history: true # 기존 뱀 파일을 지우지 않도록 설정
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
