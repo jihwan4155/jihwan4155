@@ -30,5 +30,6 @@ jobs:
         with:
           target_branch: snake-assets # 뱃지와 같은 브랜치로 설정
           build_dir: dist
+          keep_history: true # 중요: 뱃지 파일을 지우지 않음
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
