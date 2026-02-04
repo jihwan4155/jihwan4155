@@ -49,17 +49,15 @@ how to reach u
   </a>
 </div>
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihwan4155&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="jihwan4155's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jihwan4155&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="jihwan4155's GitHub stats" />
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan4155&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jihwan4155&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </div>
-
-  <br/>
 
 ### Contacts
 jihwan4155@gmail.com
