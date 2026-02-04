@@ -49,9 +49,15 @@ how to reach u
   </a>
 </div>
 
-### 📈 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=jihwan4155&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan4155&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages" />
+## 📈 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jihwan4155&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="jihwan4155's GitHub stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan4155&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</div>
 
   <br/>
 
