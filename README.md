@@ -8,6 +8,9 @@ My main tech stack is **Python**.
 With a keen interest in Sports, Fitness, and Healthcare, I aim to develop technology that enhances human performance and wellness.
 
 ---
+**2026.02.19 삼성 SW역량평가 IM형 취득**
+**2026.02.19 삼성 SW역량평가 A형 취득**
+---
 
 ### 💎 Baekjoon Badge
 <div align="left">
