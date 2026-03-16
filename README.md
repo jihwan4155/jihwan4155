@@ -14,6 +14,7 @@ With a keen interest in Sports, Fitness, and Healthcare, I aim to develop techno
 <div>
 2026.02.19 삼성 SW역량평가 A 취득
 </div>
+
 ---
 
 ### 💎 Baekjoon Badge
