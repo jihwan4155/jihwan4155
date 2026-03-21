@@ -17,9 +17,7 @@ With a keen interest in Sports, Fitness, and Healthcare, I aim to develop techno
 
 ---
 
----
-
-### Certificates
+### 🪪 Certificates
 <div>
 Structured Query Language Developer (SQLD)
 </div>
