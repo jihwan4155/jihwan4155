@@ -17,6 +17,15 @@ With a keen interest in Sports, Fitness, and Healthcare, I aim to develop techno
 
 ---
 
+---
+
+### Certificates
+<div>
+Structured Query Language Developer (SQLD)
+</div>
+
+---
+
 ### 💎 Baekjoon Badge
 <div align="left">
   <a href="https://solved.ac/jihwan4155">
