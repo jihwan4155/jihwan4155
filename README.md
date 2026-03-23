@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=400§ion=header&text=Welcome!%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=400§ion=header&text=Welcome%20render&fontSize=90)
 <img src="https://img.shields.io/badge/Coding_Journey-2026-blue?style=for-the-badge&logo=github&logoColor=white">
 
 I'm Jihwan, a beginner developer based in South Korea.
