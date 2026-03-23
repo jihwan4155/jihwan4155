@@ -36,7 +36,7 @@ Structured Query Language Developer (SQLD)
 ### 📈 GitHub Stats & Languages
 
 [![Jihwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan4155&show_icons=true&theme=holi)](https://github.com/jihwan4155/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan4155)](https://github.com/jihwan4155/github-readme-stats)
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jihwan4155&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="195" />
