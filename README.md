@@ -36,8 +36,8 @@ Structured Query Language Developer (SQLD)
 
 ### 📈 GitHub Stats & Languages
 
-[![Jihwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan4155&show_icons=true&theme=one_dark_pro)](https://github.com/jihwan4155/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan4155&show_icons=true&theme=one_dark_pro&layout=compact)](https://github.com/jihwan4155/github-readme-stats)
+[![Jihwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan4155&show_icons=true&theme=tokyonight)](https://github.com/jihwan4155/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan4155&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/jihwan4155/github-readme-stats)
 
 ---
 
