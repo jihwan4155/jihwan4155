@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=300&section=header&text=Welcome!&fontSize=70&desc=This%20is%20Jihwan&descSize=30&descAlign=50&descAlignV=75)
+![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=300§ion=header&text=Welcome!&desc=This%20is%20Jihwan%20&fontSize=90&descSize=10&descAlign=50&descAlignV=70)
+
 <img src="https://img.shields.io/badge/Coding_Journey-2026-blue?style=for-the-badge&logo=github&logoColor=white">
 
 I'm Jihwan, a beginner developer based in South Korea.
