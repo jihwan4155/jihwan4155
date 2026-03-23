@@ -39,9 +39,9 @@ Structured Query Language Developer (SQLD)
 
 </div>
 <div align="center">
-  <a href="https://solved.ac/jihwan4155">
-    <img src="https://raw.githubusercontent.com/jihwan4155/jihwan4155/snake-assets/solved-badge.svg?v=1" alt="Solved.ac Profile" />
-  </a>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jihwan4155)](https://solved.ac/jihwan4155)
+  
 </div>
 
 ---
