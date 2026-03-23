@@ -38,11 +38,6 @@ Structured Query Language Developer (SQLD)
 [![Jihwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan4155&show_icons=true&theme=github_dark)](https://github.com/jihwan4155/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan4155&show_icons=true&theme=github_dark&layout=compact)](https://github.com/jihwan4155/github-readme-stats)
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jihwan4155&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="195" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jihwan4155&theme=radical&hide_border=true&card_width=400&height=195&hide_title=false" height="195" />
-</p>
-
 ---
 
 ### 🐍 My Contribution Snake
@@ -59,5 +54,7 @@ Structured Query Language Developer (SQLD)
 ### 📧 Contacts
 **Email:** jihwan4155@gmail.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jihwan4155&repo=github-readme-stats)](https://github.com/jihwan4155/github-readme-stats)
-[![My Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=jihwan4155&repo=Algorithm&theme=github_dark)](https://github.com/jihwan4155/Algorithm)
+<p align="left">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jihwan4155&repo=github-readme-stats)](https://github.com/jihwan4155/github-readme-stats)
+  [![My Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=jihwan4155&repo=Algorithm&theme=github_dark)](https://github.com/jihwan4155/Algorithm)
+</p>
