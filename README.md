@@ -54,7 +54,3 @@ Structured Query Language Developer (SQLD)
 ### 📧 Contacts
 **Email:** jihwan4155@gmail.com
 
-<p align="left">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jihwan4155&repo=github-readme-stats)](https://github.com/jihwan4155/github-readme-stats)
-  [![My Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=jihwan4155&repo=Algorithm&theme=github_dark)](https://github.com/jihwan4155/Algorithm)
-</p>
