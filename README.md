@@ -27,6 +27,7 @@ With a keen interest in Sports, Fitness, and Healthcare, I aim to develop techno
 </div>
 
 ---
+
 <div align="center">
 
 ### 🪪 Certificates
