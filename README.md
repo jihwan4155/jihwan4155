@@ -41,18 +41,6 @@ Structured Query Language Developer (SQLD)
 ---
 <div align="center">
   
-### 💎 Baekjoon Badge
-
-</div>
-<div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jihwan4155)](https://solved.ac/jihwan4155)
-  
-</div>
-
----
-<div align="center">
-  
 ### 📈 GitHub Stats & Languages
 
 </div>
