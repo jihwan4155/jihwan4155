@@ -45,19 +45,10 @@ I'm currently participating in **SSAFY (Samsung AI Software Academy For Youth)**
 | 프로젝트 | 서비스 | 담당 및 주요 경험 |
 |:---|:---|:---|
 | **Dver AI Call Assistant** | 전화 기반 택배 주문 접수 AI 에이전트 | **AI** · 실시간 음성 인식 및 발화 종료 감지 PoC, 대화 상태 관리 및 주문 처리 AI 아키텍처 설계 |
-| **Don't Touch Mine** | 물건 숨기기·찾기 멀티플레이 게임 | **AI / Game Development** · Unity ML-Agents 기반 NPC 학습 및 게임 AI 개발 |
-| **[STARTTOO](https://github.com/jihwan4155/starttoo)** | AI 타투 도안 생성 및 AR 시뮬레이션 플랫폼 | **Team Leader / AI** · 사용자 조사, 서비스 기획, 이미지 데이터 수집·라벨링, LoRA 기반 AI 모델 학습 |
+| **Don't Touch Mine** | 물건 숨기기·찾기 멀티플레이 게임 | **팀장/ AI / 클라이언트 개발** · Unity ML-Agents 기반 NPC 학습 및 게임 AI 개발 |
+| **[STARTTOO](https://github.com/jihwan4155/starttoo)** | AI 타투 도안 생성 및 AR 시뮬레이션 플랫폼 | **팀장 / AI** · 사용자 조사, 서비스 기획, 이미지 데이터 수집·라벨링, LoRA 기반 AI 모델 학습 |
 | **같이타요** | 대중교통 이용자 길 안내 서비스 | **Hackathon** · DIVE 2026 부산교통공사 트랙 프로젝트 |
 | **[한끼 뚝딱](https://github.com/jihwan4155/hanki-ttuktak)** | 냉장고 식재료 관리 및 개인화 레시피 추천 서비스 | **Full Stack** · Django·Vue 기반 서비스 개발, 사용자 선호 및 보유 식재료 기반 레시피 추천 |
-
----
-
-<div>
-2026.02.19 삼성 SW역량평가 IM 취득
-</div>
-<div>
-2026.02.19 삼성 SW역량평가 A 취득
-</div>
 
 ---
 
@@ -65,7 +56,13 @@ I'm currently participating in **SSAFY (Samsung AI Software Academy For Youth)**
 
 ### 🪪 Certificates
 <div>
-Structured Query Language Developer (SQLD)
+2026.03.27 Structured Query Language Developer (SQLD)
+</div>
+<div>
+2026.02.19 삼성 SW역량평가 A 취득
+</div>
+<div>
+2026.02.19 삼성 SW역량평가 IM 취득
 </div>
 
 </div>
