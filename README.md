@@ -4,7 +4,7 @@ passion" width="100%">
 </p>
 
 <div align=center>
-<img src="https://img.shields.io/badge/Coding_Journey-2026-blue?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/jihwan4155"><img src="https://img.shields.io/badge/GitHub-jihwan4155-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: jihwan4155"></a> <img src="https://komarev.com/ghpvc/?username=jihwan4155&label=VISITORS&color=6f2da8&style=for-the-badge" alt="Profile visitors"> <img src="https://img.shields.io/badge/Coding_Journey-2026-blue?style=for-the-badge&logo=github&logoColor=white" alt="Coding Journey 2026"> <a href="mailto:jihwan4155@gmail.com"><img src="https://img.shields.io/badge/EMAIL-jihwan4155%40gmail.com-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: jihwan4155@gmail.com"></a>
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
