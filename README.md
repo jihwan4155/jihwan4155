@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=250&section=header&text=Welcome!&fontSize=90&desc=This%20is%20Jihwan&descSize=30&textAlignV=30&descAlign=50&descAlignV=70" width="100%">
-<!-- 마크다운용 ![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=300&section=header&text=Welcome!&desc=This%20is%20Jihwan&fontSize=90&descSize=30&textAlignV=35&descAlign=50&descAlignV=65) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jihwan4155/jihwan4155/main/assets/profile-banner.svg" alt="Jihwan — Learn, Build, Grow" width="100%">
+</p>
 
 <div align=center>
 <img src="https://img.shields.io/badge/Coding_Journey-2026-blue?style=for-the-badge&logo=github&logoColor=white">
