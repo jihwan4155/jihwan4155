@@ -17,9 +17,6 @@
 I'm Jihwan, a beginner developer based in South Korea.
 I'm currently participating in **SSAFY (Samsung AI Software Academy For Youth)**. 
 
-My main tech stack is **Python**. 
-With a keen interest in Sports, Fitness, and Healthcare, I aim to develop technology that enhances human performance and wellness.
-
 <div>
 2026.02.19 삼성 SW역량평가 IM 취득
 </div>
