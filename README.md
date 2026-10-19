@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jihwan4155/jihwan4155/79f24f3a4a3ed0b38372b32e3291b793ec3dff10/assets/profile-banner.svg" alt="Jihwan — Code, Solve, 
+  <img src="https://raw.githubusercontent.com/jihwan4155/jihwan4155/521c5d0092b2c9bb9cc75516cb254a68d8392b7d/assets/profile-banner.svg" alt="Jihwan — Code, Solve, 
 passion" width="100%">
 </p>
 
